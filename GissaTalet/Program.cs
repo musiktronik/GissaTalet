@@ -8,7 +8,7 @@
  * 2015-01-22
  * 
  */
-///Program som gissar ett tal
+///Program som gissar ett tal mellan 1 och 100
 ///
 using System;
 using System.Collections.Generic;
